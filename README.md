@@ -1,2 +1,3 @@
 # JAVASCRIPT
-PROJECTS OF JS
+project of javascript
+
