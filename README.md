@@ -1,2 +1,2 @@
 # JAVASCRIPT
-depth dive on javascript 
+depth dive in javascript 
